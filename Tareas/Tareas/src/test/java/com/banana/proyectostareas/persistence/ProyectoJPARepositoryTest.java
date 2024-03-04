@@ -1,6 +1,6 @@
 package com.banana.proyectostareas.persistence;
 
-import com.banana.proyectostareas.proyectostareas.model.Proyecto;
+import com.banana.proyectostareas.model.Proyecto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

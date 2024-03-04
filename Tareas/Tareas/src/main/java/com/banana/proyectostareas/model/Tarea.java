@@ -1,9 +1,9 @@
-package com.banana.proyectostareas.proyectostareas.model;
+package com.banana.proyectostareas.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.hibernate.annotations.Table;
+import javax.persistence.Table;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

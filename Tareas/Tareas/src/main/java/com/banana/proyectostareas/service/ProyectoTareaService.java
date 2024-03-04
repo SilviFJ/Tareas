@@ -1,9 +1,10 @@
-package com.banana.proyectostareas.proyectostareas.service;
+package com.banana.proyectostareas.service;
 
-import com.banana.proyectostareas.proyectostareas.exception.ProyectoNotfoundException;
-import com.banana.proyectostareas.proyectostareas.exception.TareaNotfoundException;
-import com.banana.proyectostareas.proyectostareas.model.Proyecto;
-import com.banana.proyectostareas.proyectostareas.model.Tarea;
+import com.banana.proyectostareas.exception.ProyectoNotfoundException;
+import com.banana.proyectostareas.exception.TareaNotfoundException;
+import com.banana.proyectostareas.model.Proyecto;
+import com.banana.proyectostareas.model.Tarea;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 

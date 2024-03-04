@@ -1,6 +1,6 @@
 package com.banana.proyectostareas.persistence;
 
-import com.banana.proyectostareas.proyectostareas.model.Tarea;
+import com.banana.proyectostareas.model.Tarea;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.banana.proyectostareas.proyectostareas;
+package com.banana.proyectostareas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TareasApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TareasApplication.class, args);
 	}
 
